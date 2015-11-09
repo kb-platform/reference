@@ -141,7 +141,6 @@ C191500,Adhesive Manufacturing
 C191600,Paint and Coatings Manufacturing
 C191900,Other Polymer Product Manufacturing
 C192000,Natural Rubber Product Manufacturing
-C201000,Glass and Glass Product Manufacturing
 C202100,Clay Brick Manufacturing
 C202900,Other Ceramic Product Manufacturing
 C203100,Cement and Lime Manufacturing
@@ -159,7 +158,6 @@ C213900,Other Basic Non-Ferrous Metal Manufacturing
 C214100,Non-Ferrous Metal Casting
 C214200,"Aluminium Rolling, Drawing, Extruding"
 C214900,Other Basic Non-Ferrous Metal Product Manufacturing
-C221000,Iron and Steel Forging
 C222100,Structural Steel Fabricating
 C222200,Prefabricated Metal Building Manufacturing
 C222300,Architectural Aluminium Product Manufacturing
@@ -220,8 +218,6 @@ D291100,Solid Waste Collection Services
 D291900,Other Waste Collection Services
 D292100,Waste Treatment and Disposal Services
 D292200,Waste Remediation and Materials Recovery Services
-E301100,House Construction
-E301900,Other Residential Building Construction
 E302000,Non-Residential Building Construction
 E310100,Road and Bridge Construction
 E310900,Other Heavy and Civil Engineering Construction
@@ -326,13 +322,10 @@ H451200,Takeaway Food Services
 H451300,Catering Services
 H452000,"Pubs, Taverns and Bars"
 H453000,Clubs (Hospitality)
-I461000,Road Freight Transport
-I462100,Interurban and Rural Bus Transport
 I462200,Urban Bus Transport (Including Tramway)
 I462300,Taxi and Other Road Transport
 I471000,Rail Freight Transport
 I472000,Rail Passenger Transport
-I481000,Water Freight Transport
 I482000,Water Passenger Transport
 I490000,Air and Space Transport
 I501000,Scenic and Sightseeing Transport
@@ -505,8 +498,10 @@ S955900,Other Interest Group Services n.e.c.
 S960100,Private Households Employing Staff
 S960200,Undifferentiated Goods-Producing Activities of Private Households for Own Use
 S960300,Undifferentiated Service-Producing Activities of Private Households for Own Use
-T994000,Don't Know
+T994000,Don't know
 T995000,Refused to Answer
 T997000,Response Unidentifiable
 T998000,Response Outside Scope
 T999999,Not Stated
+X981000,Personal - Owner Occupied Home Loans
+X982000,Personal - Residential Investment Property Lending
